@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Denge Plastik</title>
+<desc id="desc">Antrasit ve turkuaz renkli Denge Plastik kelime logosu</desc>
+<rect width="1200" height="250" fill="none"/>
+<!-- Custom D emblem integrated into the wordmark -->
+<g fill="#30383C">
+  <path d="M35 28 H105 C154 28 182 60 182 108 C182 157 153 190 105 190 H35 V151 H99 C124 151 138 136 138 109 C138 82 124 67 99 67 H35 Z"/>
+  <path d="M197 28 H276 V65 H236 V88 H273 V124 H236 V152 H278 V190 H197 Z"/>
+  <path d="M294 28 H333 L381 111 V28 H420 V190 H381 L333 109 V190 H294 Z"/>
+  <path d="M438 28 H521 V65 H477 V88 H519 V124 H477 V152 H523 V190 H438 Z"/>
+  <path d="M550 28 H628 C668 28 689 49 689 85 C689 112 676 130 653 138 L693 190 H645 L612 143 H590 V190 H550 Z M590 65 V108 H619 C637 108 647 101 647 86 C647 72 637 65 619 65 Z"/>
+  <path d="M710 28 H750 V190 H710 Z"/>
+  <path d="M774 28 H815 L850 103 L885 28 H926 L870 137 V190 H830 V137 Z"/>
+  <path d="M946 28 H1027 V65 H986 V88 H1024 V124 H986 V152 H1029 V190 H946 Z"/>
+  <path d="M1047 28 H1087 V190 H1047 Z"/>
+  <path d="M1105 28 H1145 V88 L1182 28 H1220 L1172 98 L1223 190 H1177 L1145 129 V190 H1105 Z" transform="translate(-38 0)"/>
+</g>
+<!-- Turquoise signature cut in the D -->
+<path d="M35 92 H103 C116 92 124 99 124 109 C124 119 116 126 103 126 H35 Z" fill="#079C98"/>
+<!-- Turquoise triangular accent in the A -->
+<path d="M842 116 L858 84 L874 116 Z" fill="#079C98"/>
+<path d="M35 211 H1165" stroke="#079C98" stroke-width="3"/>
+<text x="600" y="241" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="5" fill="#52616A">PLASTİK ENJEKSİYON VE KALIP İŞLERİ</text>
+</svg>
